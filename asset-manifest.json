@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Neeraj708888/Commerce-web/static/css/main.f21eb9da.css",
+    "main.js": "/Neeraj708888/Commerce-web/static/js/main.123cadbd.js",
+    "static/js/651.330b3dbb.chunk.js": "/Neeraj708888/Commerce-web/static/js/651.330b3dbb.chunk.js",
+    "static/media/Exclusive.jpg": "/Neeraj708888/Commerce-web/static/media/Exclusive.920b6f4e5bc30a867252.jpg",
+    "static/media/instagram.png": "/Neeraj708888/Commerce-web/static/media/instagram.1792ff30fb032c94685c.png",
+    "static/media/whatsapp.png": "/Neeraj708888/Commerce-web/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
+    "static/media/stardull.png": "/Neeraj708888/Commerce-web/static/media/stardull.190d870d386afd29523a.png",
+    "static/media/k5.jpg": "/Neeraj708888/Commerce-web/static/media/k5.584e35217128d3a2674c.jpg",
+    "static/media/p7.jpg": "/Neeraj708888/Commerce-web/static/media/p7.99c06720faa4efdb3d74.jpg",
+    "static/media/pinterest.png": "/Neeraj708888/Commerce-web/static/media/pinterest.c0bf18f998816d009ce9.png",
+    "static/media/facebook.png": "/Neeraj708888/Commerce-web/static/media/facebook.bfd1cfff9f9521198b26.png",
+    "index.html": "/Neeraj708888/Commerce-web/index.html",
+    "main.f21eb9da.css.map": "/Neeraj708888/Commerce-web/static/css/main.f21eb9da.css.map",
+    "main.123cadbd.js.map": "/Neeraj708888/Commerce-web/static/js/main.123cadbd.js.map",
+    "651.330b3dbb.chunk.js.map": "/Neeraj708888/Commerce-web/static/js/651.330b3dbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f21eb9da.css",
+    "static/js/main.123cadbd.js"
+  ]
+}
