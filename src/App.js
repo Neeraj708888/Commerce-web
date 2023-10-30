@@ -23,7 +23,7 @@ function App(props) {
     <BrowserRouter>
     <Navbar />
     <Routes>
-      <Route path="/" element={<Home/>} />
+      <Route path="#" element={<Home/>} />
       <Route path="/mens" element={<HomeCategory banner = {menbanner} category="mens"/>} />
       <Route path="/womens" element={<HomeCategory banner = {womenbanner} category="womens"/>} />
       <Route path="/kids" element={<HomeCategory banner = {kidsbanner} category="kid"/>} />
