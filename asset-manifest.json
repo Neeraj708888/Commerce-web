@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Neeraj708888/Commerce-web/static/css/main.f21eb9da.css",
-    "main.js": "/Neeraj708888/Commerce-web/static/js/main.17bd769d.js",
+    "main.js": "/Neeraj708888/Commerce-web/static/js/main.75c0d231.js",
     "static/js/651.330b3dbb.chunk.js": "/Neeraj708888/Commerce-web/static/js/651.330b3dbb.chunk.js",
     "static/media/Exclusive.jpg": "/Neeraj708888/Commerce-web/static/media/Exclusive.920b6f4e5bc30a867252.jpg",
     "static/media/instagram.png": "/Neeraj708888/Commerce-web/static/media/instagram.1792ff30fb032c94685c.png",
@@ -13,11 +13,11 @@
     "static/media/facebook.png": "/Neeraj708888/Commerce-web/static/media/facebook.bfd1cfff9f9521198b26.png",
     "index.html": "/Neeraj708888/Commerce-web/index.html",
     "main.f21eb9da.css.map": "/Neeraj708888/Commerce-web/static/css/main.f21eb9da.css.map",
-    "main.17bd769d.js.map": "/Neeraj708888/Commerce-web/static/js/main.17bd769d.js.map",
+    "main.75c0d231.js.map": "/Neeraj708888/Commerce-web/static/js/main.75c0d231.js.map",
     "651.330b3dbb.chunk.js.map": "/Neeraj708888/Commerce-web/static/js/651.330b3dbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f21eb9da.css",
-    "static/js/main.17bd769d.js"
+    "static/js/main.75c0d231.js"
   ]
 }
