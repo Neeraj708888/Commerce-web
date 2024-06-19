@@ -7,13 +7,13 @@ import NewsLetter from '../NewsLetter/NewsLetter';
 
 const Home = () => {
   return (
-      <div>
-         <Hero />
-        <Popular />
-         <Offers/>
-        <NewCollections/>
-        <NewsLetter/>
-      </div>
+    <div>
+      <Hero />
+      <Popular />
+      <Offers />
+      <NewCollections />
+      <NewsLetter />
+    </div>
   );
 }
 

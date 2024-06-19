@@ -17,13 +17,13 @@ import kidsbanner from '../src/Components/Assets/kidsbanner.jpg';
 import Login from "./Components/Login/Login";
 
 
-function App(props) {
+function App() {
   return (
     <div >
     <BrowserRouter homepage ="/">
     <Navbar />
     <Routes>
-      <Route exact path="/" element={<Home/>} />
+      <Route exact path="Neeraj708888/Commerce-web" element={<Home/>} />
       <Route path="/mens" element={<HomeCategory banner = {menbanner} category="mens"/>} />
       <Route path="/womens" element={<HomeCategory banner = {womenbanner} category="womens"/>} />
       <Route path="/kids" element={<HomeCategory banner = {kidsbanner} category="kid"/>} />
